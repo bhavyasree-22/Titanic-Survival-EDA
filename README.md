@@ -15,7 +15,6 @@ This project uses Python-based data science to move beyond historical narratives
 
 ## 📂 Dataset Information
 The dataset contains information about 891 passengers, including features such as Age, Sex, Passenger Class, and Fare.
-* **Download Dataset:** [Titanic-Dataset.csv](./Titanic-Dataset.csv)
 * **Source:** Kaggle 
 
 ---
