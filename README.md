@@ -16,7 +16,7 @@ This project uses Python-based data science to move beyond historical narratives
 ## 📂 Dataset Information
 The dataset contains information about 891 passengers, including features such as Age, Sex, Passenger Class, and Fare.
 * **Source:** Kaggle 
-
+* **Download:** You can download the dataset from  [kaggle.com](https://www.kaggle.com/) or i attached csv file name titanic-dataset you can also download there
 ---
 
 ## 🛠️ Technical Skills Demonstrated
