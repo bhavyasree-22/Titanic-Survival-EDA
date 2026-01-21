@@ -1,8 +1,8 @@
-# Titanic-Survival-EDA
-An end-to-end exploratory data analysis (EDA) of the Titanic dataset to identify key factors influencing passenger survival, featuring feature engineering and automated profiling.
 # Titanic Survival Prediction: End-to-End EDA 🚢
 
-An exhaustive exploratory data analysis (EDA) performed in **Google Colab**, focusing on identifying the socio-demographic drivers of survival rates among Titanic passengers.
+* An end-to-end exploratory data analysis (EDA) of the Titanic dataset to identify key factors influencing passenger survival, featuring feature engineering and automated profiling
+
+* And a exhaustive exploratory data analysis (EDA) performed in **Google Colab**, focusing on identifying the socio-demographic drivers of survival rates among Titanic passengers.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zt0yFhGwSBtfYH6qUU_QKLJw9O76CuZx?usp=sharing)
 
@@ -54,5 +54,10 @@ Since this project was built in **Google Colab**, no local setup is required.
 
 ---
 
-**Project by:** Bhavya  
-*2nd Year Student at VIT-AP | Aspiring AI/ML Engineer*
+## 📬 Connect with Me
+
+If you have any questions about this project or want to discuss AI/ML opportunities, feel free to reach out!
+
+* **Name:** Bhavya Sree
+* **Email:** [gubbabhavya@gmail.com](mailto:gubbabhavya@gmail.com)
+* **LinkedIn:** [Bhavya Sree](www.linkedin.com/in/bhavya-sree-22122006bs)
